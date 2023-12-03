@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sofiia</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">Ambitious Front-end developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">To get in touch with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sofiiakarpova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sofiiakarpova/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/sofiiakarpova/" target="_blank" rel="noreferrer">Linkedin</a>/
+ <a href="https://t.me/sofiialives" target="_blank" rel="noreferrer">Telegram</a>/
+ <a href="mailto:karpovasofia1102@gmail.com" target="_blank" rel="noreferrer">Gmail</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
