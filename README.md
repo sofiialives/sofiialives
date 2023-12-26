@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sofiia</h1>
 <h3 align="center">Ambitious Front-end developer</h3>
 
+[![Profile badge](https://www.codewars.com/users/sofiialives/badges/small)](https://www.codewars.com/users/sofiialives)
+
 <h3 align="left">To get in touch with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/sofiiakarpova/" target="_blank" rel="noreferrer">Linkedin</a> /
